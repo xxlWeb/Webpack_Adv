@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4275339 */
+  src: url('../fonts/iconfont.woff2?t=1696662089119') format('woff2'),
+       url('../fonts/iconfont.woff?t=1696662089119') format('woff'),
+       url('../fonts/iconfont.ttf?t=1696662089119') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-java:before {
+  content: "\e6d7";
+}
+
+.icon-Docker2:before {
+  content: "\e6e1";
+}
+
+.icon-k8s:before {
+  content: "\e6e2";
+}
+
+.icon-zinkin:before {
+  content: "\e75d";
+}
+
+.icon-Mysql:before {
+  content: "\e788";
+}
+
